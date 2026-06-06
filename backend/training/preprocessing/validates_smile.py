@@ -76,3 +76,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+#TODO: Simplify the architecture of readme, start with notebooks and import correctly the datasets
